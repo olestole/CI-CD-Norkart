@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/olestole/CI-CD-Norkart/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/olestole/CI-CD-Norkart/static/js/main.bc4128f3.chunk.js",
+    "main.js.map": "/olestole/CI-CD-Norkart/static/js/main.bc4128f3.chunk.js.map",
+    "runtime-main.js": "/olestole/CI-CD-Norkart/static/js/runtime-main.7fcce681.js",
+    "runtime-main.js.map": "/olestole/CI-CD-Norkart/static/js/runtime-main.7fcce681.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/olestole/CI-CD-Norkart/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/olestole/CI-CD-Norkart/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/olestole/CI-CD-Norkart/static/js/2.16ab8709.chunk.js.map",
+    "index.html": "/olestole/CI-CD-Norkart/index.html",
+    "precache-manifest.6e65d6ff7deefe2fe28ee62c64474f29.js": "/olestole/CI-CD-Norkart/precache-manifest.6e65d6ff7deefe2fe28ee62c64474f29.js",
+    "service-worker.js": "/olestole/CI-CD-Norkart/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/olestole/CI-CD-Norkart/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/olestole/CI-CD-Norkart/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/olestole/CI-CD-Norkart/static/js/2.16ab8709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fcce681.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bc4128f3.chunk.js"
+  ]
+}
