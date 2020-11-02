@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CI-CD-Norkart/precache-manifest.aa672d29d14cb910a06de2343d588af9.js"
+  "/CI-CD-Norkart/precache-manifest.9dc52f4d4a83c80cc033ec83f3df7cbb.js"
 );
 
 self.addEventListener('message', (event) => {
