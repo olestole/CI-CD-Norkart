@@ -5,19 +5,19 @@
     "main.js.map": "/CI-CD-Norkart/static/js/main.50fa6fe4.chunk.js.map",
     "runtime-main.js": "/CI-CD-Norkart/static/js/runtime-main.f9d97984.js",
     "runtime-main.js.map": "/CI-CD-Norkart/static/js/runtime-main.f9d97984.js.map",
-    "static/css/2.bbd0233a.chunk.css": "/CI-CD-Norkart/static/css/2.bbd0233a.chunk.css",
+    "static/css/2.2a1d4e3d.chunk.css": "/CI-CD-Norkart/static/css/2.2a1d4e3d.chunk.css",
     "static/js/2.87629197.chunk.js": "/CI-CD-Norkart/static/js/2.87629197.chunk.js",
     "static/js/2.87629197.chunk.js.map": "/CI-CD-Norkart/static/js/2.87629197.chunk.js.map",
     "index.html": "/CI-CD-Norkart/index.html",
-    "precache-manifest.9dc52f4d4a83c80cc033ec83f3df7cbb.js": "/CI-CD-Norkart/precache-manifest.9dc52f4d4a83c80cc033ec83f3df7cbb.js",
+    "precache-manifest.96a469bc95d0cc812d31a24a91c98c54.js": "/CI-CD-Norkart/precache-manifest.96a469bc95d0cc812d31a24a91c98c54.js",
     "service-worker.js": "/CI-CD-Norkart/service-worker.js",
-    "static/css/2.bbd0233a.chunk.css.map": "/CI-CD-Norkart/static/css/2.bbd0233a.chunk.css.map",
+    "static/css/2.2a1d4e3d.chunk.css.map": "/CI-CD-Norkart/static/css/2.2a1d4e3d.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/CI-CD-Norkart/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.87629197.chunk.js.LICENSE.txt": "/CI-CD-Norkart/static/js/2.87629197.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9d97984.js",
-    "static/css/2.bbd0233a.chunk.css",
+    "static/css/2.2a1d4e3d.chunk.css",
     "static/js/2.87629197.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.50fa6fe4.chunk.js"

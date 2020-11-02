@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23650eb23eb366c8f4c1bf5f1ece423d",
+    "revision": "16408393f201e300ab2b55217376c519",
     "url": "/CI-CD-Norkart/index.html"
   },
   {
-    "revision": "05a652fe6efe0c2df7e5",
-    "url": "/CI-CD-Norkart/static/css/2.bbd0233a.chunk.css"
+    "revision": "8b3f86a6873b504ff6bf",
+    "url": "/CI-CD-Norkart/static/css/2.2a1d4e3d.chunk.css"
   },
   {
     "revision": "7d0773a73c5a5fe21681",
     "url": "/CI-CD-Norkart/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "05a652fe6efe0c2df7e5",
+    "revision": "8b3f86a6873b504ff6bf",
     "url": "/CI-CD-Norkart/static/js/2.87629197.chunk.js"
   },
   {
