@@ -2,8 +2,6 @@ import React from "react";
 import Header from "./components/Header";
 import MapboxGLMap from "./components/MapboxGLMap";
 
-import InputLocation from "./components/InputLocation";
-
 const styles = {
   overflow: "hidden",
   display: "flex",

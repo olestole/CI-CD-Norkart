@@ -35,24 +35,28 @@ const MapboxGLMap = () => {
     map.setStyle(`mapbox://styles/mapbox/${b}`);
   };
 
-  useEffect(() => {
-    mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_KEY;
-    const initializeMap = ({ setMap, mapContainer }) => {
-      const map = new mapboxgl.Map({
-        container: mapContainer.current,
-        style: `mapbox://styles/mapbox/${currentBackground}`, // stylesheet location
-        center: [10.408773, 63.422091],
-        zoom: 10,
-      });
+  useEffect(
+    () => {
+      mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_KEY;
+      const initializeMap = ({ setMap, mapContainer }) => {
+        const map = new mapboxgl.Map({
+          container: mapContainer.current,
+          style: `mapbox://styles/mapbox/${currentBackground}`, // stylesheet location
+          center: [10.408773, 63.422091],
+          zoom: 10,
+        });
 
-      map.on("load", () => {
-        setMap(map);
-        map.resize();
-      });
-    };
+        map.on("load", () => {
+          setMap(map);
+          map.resize();
+        });
+      };
 
-    if (!map) initializeMap({ setMap, mapContainer });
-  }, [map]);
+      if (!map) initializeMap({ setMap, mapContainer });
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [map]
+  );
 
   return (
     <div>
